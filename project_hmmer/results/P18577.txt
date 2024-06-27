@@ -1,0 +1,837 @@
+ID   RHCE_HUMAN              Reviewed;         417 AA.
+AC   P18577; A7DW68; B7UDF3; B7UDF4; B7UDF5; B7UDF6; B7UDF7; B7UDF8; B7UDF9;
+AC   B7UDG0; B7UDG1; B7UDG2; B7UDG3; Q02163; Q02164; Q02165; Q16160; Q2MJW0;
+AC   Q2VC86; Q3LTM6; Q6AZX5; Q6J2U3; Q7RU06; Q8IZT2; Q8IZT3; Q8IZT4; Q8IZT5;
+AC   Q9UD13; Q9UD14; Q9UD15; Q9UD16; Q9UD73; Q9UD74; Q9UEC2; Q9UEC3; Q9UPN0;
+DT   01-NOV-1990, integrated into UniProtKB/Swiss-Prot.
+DT   24-JAN-2024, sequence version 3.
+DT   29-MAY-2024, entry version 195.
+DE   RecName: Full=Blood group Rh(CE) polypeptide {ECO:0000305};
+DE   AltName: Full=Rh polypeptide 1;
+DE            Short=RhPI;
+DE   AltName: Full=Rh30A;
+DE   AltName: Full=RhIXB;
+DE   AltName: Full=Rhesus C/E antigens;
+DE   AltName: CD_antigen=CD240CE;
+GN   Name=RHCE {ECO:0000312|HGNC:HGNC:10008}; Synonyms=RHC, RHE;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM RHI), AND VARIANTS TRP-16 AND PRO-226.
+RC   TISSUE=Bone marrow;
+RX   PubMed=2123099; DOI=10.1042/bj2710821;
+RA   Avent N.D., Ridgwell K., Tanner M.J.A., Anstee D.J.;
+RT   "cDNA cloning of a 30 kDa erythrocyte membrane protein associated with Rh
+RT   (Rhesus)-blood-group-antigen expression.";
+RL   Biochem. J. 271:821-825(1990).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM RHI), PARTIAL PROTEIN SEQUENCE, AND
+RP   VARIANTS TRP-16 AND PRO-226.
+RC   TISSUE=Bone marrow;
+RX   PubMed=1696722; DOI=10.1073/pnas.87.16.6243;
+RA   Cherif-Zahar B., Bloy C., le van Kim C., Blanchard D., Bailly P.,
+RA   Hermand P., Salmon C., Cartron J.-P., Colin Y.;
+RT   "Molecular cloning and protein structure of a human blood group Rh
+RT   polypeptide.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 87:6243-6247(1990).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS RHIV; RHVI AND RHVIII), AND VARIANT
+RP   TRP-16.
+RC   TISSUE=Bone marrow;
+RX   PubMed=1379850;
+RA   le van Kim C., Cherif-Zahar B., Raynal V., Mouro I., Lopez M.,
+RA   Cartron J.-P., Colin Y.;
+RT   "Multiple Rh messenger RNA isoforms are produced by alternative splicing.";
+RL   Blood 80:1074-1078(1992).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM RHI), AND VARIANTS TRP-16 AND PRO-226.
+RX   PubMed=7916743; DOI=10.1007/bf00222717;
+RA   Kajii E., Umenishi F., Iwamoto S., Ikemoto S.;
+RT   "Isolation of a new cDNA clone encoding an Rh polypeptide associated with
+RT   the Rh blood group system.";
+RL   Hum. Genet. 91:157-162(1993).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM RHI), VARIANT E/RH3 ANTIGEN PRO-226,
+RP   AND POLYMORPHISM.
+RX   PubMed=11380456; DOI=10.1046/j.1365-2141.2001.02803.x;
+RA   Westhoff C.M., Silberstein L.E., Wylie D.E., Skavdahl M., Reid M.E.;
+RT   "16Cys encoded by the RHce gene is associated with altered expression of
+RT   the e antigen and is frequent in the R0 haplotype.";
+RL   Br. J. Haematol. 113:666-671(2001).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM RHI), AND VARIANTS TRP-16; ILE-60;
+RP   SER-68; SER-103; VAL-127; ASP-128; THR-154; PRO-226; GLU-233 AND VAL-238.
+RX   PubMed=11724987; DOI=10.1046/j.1537-2995.2001.41111408.x;
+RA   Kashiwase K., Ishikawa Y., Hyodo H., Watanabe Y., Ogawa A., Tsuneyama H.,
+RA   Toyoda C., Uchikawa M., Akaza T., Omine M., Juji T.;
+RT   "E variants found in Japanese and c antigenicity alteration without
+RT   substitution in the second extracellular loop.";
+RL   Transfusion 41:1408-1412(2001).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM RHI), AND VARIANTS TRP-16; VAL-238;
+RP   VAL-245; GLY-263 AND LYS-267.
+RX   PubMed=12393640; DOI=10.1182/blood-2002-01-0229;
+RA   Noizat-Pirenne F., Lee K., Le Pennec P.-Y., Simon P., Kazup P., Bachir D.,
+RA   Rouzaud A.M., Roussel M., Juszczak G., Menanteau C., Rouger P., Kotb R.,
+RA   Cartron J.-P., Ansart-Pirenne H.;
+RT   "Rare RHCE phenotypes in black individuals of Afro-Caribbean origin:
+RT   identification and transfusion safety.";
+RL   Blood 100:4223-4231(2002).
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM RHI), AND VARIANTS ILE-60; SER-68 AND
+RP   SER-103.
+RA   Yan L., Xu X., Zhu F.;
+RT   "A new RhCe allele in Chinese Han population.";
+RL   Submitted (APR-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [9]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM RHI), AND VARIANTS TRP-16; PRO-226;
+RP   GLU-233 AND VAL-245.
+RA   Westhoff C.M., Vege S.;
+RT   "Molecular basis for Crawford antigen expression.";
+RL   Submitted (AUG-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [10]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM RHI), AND VARIANTS TRP-16; ILE-60;
+RP   SER-68; SER-103 AND PRO-226.
+RA   Vege S., Westhoff C.M.;
+RT   "RHCE gene, allele CE, antigen CE.";
+RL   Submitted (OCT-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [11]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM RHI).
+RA   Westhoff C.M., Vege S.;
+RT   "RHCE gene, allele RHce, ce antigen.";
+RL   Submitted (DEC-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [12]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND VARIANTS TRP-16; ILE-60; SER-68;
+RP   SER-103; PRO-226 AND GLU-398.
+RA   Wei Q., Flegel W.A.;
+RT   "RHD allele and RH haplotype distribution in Tibetans.";
+RL   Submitted (AUG-2006) to the EMBL/GenBank/DDBJ databases.
+RN   [13]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND VARIANTS TRP-16; ILE-60; SER-68;
+RP   SER-103; PRO-226 AND LYS-267.
+RA   Bugert P., Scharberg E.A., Geisen C., von Zabern I., Flegel W.A.;
+RL   Submitted (NOV-2008) to the EMBL/GenBank/DDBJ databases.
+RN   [14]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RX   PubMed=16710414; DOI=10.1038/nature04727;
+RA   Gregory S.G., Barlow K.F., McLay K.E., Kaul R., Swarbreck D., Dunham A.,
+RA   Scott C.E., Howe K.L., Woodfine K., Spencer C.C.A., Jones M.C., Gillson C.,
+RA   Searle S., Zhou Y., Kokocinski F., McDonald L., Evans R., Phillips K.,
+RA   Atkinson A., Cooper R., Jones C., Hall R.E., Andrews T.D., Lloyd C.,
+RA   Ainscough R., Almeida J.P., Ambrose K.D., Anderson F., Andrew R.W.,
+RA   Ashwell R.I.S., Aubin K., Babbage A.K., Bagguley C.L., Bailey J.,
+RA   Beasley H., Bethel G., Bird C.P., Bray-Allen S., Brown J.Y., Brown A.J.,
+RA   Buckley D., Burton J., Bye J., Carder C., Chapman J.C., Clark S.Y.,
+RA   Clarke G., Clee C., Cobley V., Collier R.E., Corby N., Coville G.J.,
+RA   Davies J., Deadman R., Dunn M., Earthrowl M., Ellington A.G., Errington H.,
+RA   Frankish A., Frankland J., French L., Garner P., Garnett J., Gay L.,
+RA   Ghori M.R.J., Gibson R., Gilby L.M., Gillett W., Glithero R.J.,
+RA   Grafham D.V., Griffiths C., Griffiths-Jones S., Grocock R., Hammond S.,
+RA   Harrison E.S.I., Hart E., Haugen E., Heath P.D., Holmes S., Holt K.,
+RA   Howden P.J., Hunt A.R., Hunt S.E., Hunter G., Isherwood J., James R.,
+RA   Johnson C., Johnson D., Joy A., Kay M., Kershaw J.K., Kibukawa M.,
+RA   Kimberley A.M., King A., Knights A.J., Lad H., Laird G., Lawlor S.,
+RA   Leongamornlert D.A., Lloyd D.M., Loveland J., Lovell J., Lush M.J.,
+RA   Lyne R., Martin S., Mashreghi-Mohammadi M., Matthews L., Matthews N.S.W.,
+RA   McLaren S., Milne S., Mistry S., Moore M.J.F., Nickerson T., O'Dell C.N.,
+RA   Oliver K., Palmeiri A., Palmer S.A., Parker A., Patel D., Pearce A.V.,
+RA   Peck A.I., Pelan S., Phelps K., Phillimore B.J., Plumb R., Rajan J.,
+RA   Raymond C., Rouse G., Saenphimmachak C., Sehra H.K., Sheridan E.,
+RA   Shownkeen R., Sims S., Skuce C.D., Smith M., Steward C., Subramanian S.,
+RA   Sycamore N., Tracey A., Tromans A., Van Helmond Z., Wall M., Wallis J.M.,
+RA   White S., Whitehead S.L., Wilkinson J.E., Willey D.L., Williams H.,
+RA   Wilming L., Wray P.W., Wu Z., Coulson A., Vaudin M., Sulston J.E.,
+RA   Durbin R.M., Hubbard T., Wooster R., Dunham I., Carter N.P., McVean G.,
+RA   Ross M.T., Harrow J., Olson M.V., Beck S., Rogers J., Bentley D.R.;
+RT   "The DNA sequence and biological annotation of human chromosome 1.";
+RL   Nature 441:315-321(2006).
+RN   [15]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM RHI), AND VARIANTS ILE-60;
+RP   SER-68 AND SER-103.
+RC   TISSUE=Brain;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [16]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-11.
+RX   PubMed=8188244; DOI=10.1006/geno.1994.1014;
+RA   Cherif-Zahar B., le van Kim C., Rouillac C., Raynal V., Cartron J.-P.,
+RA   Colin Y.;
+RT   "Organization of the gene (RHCE) encoding the human blood group RhCcEe
+RT   antigens and characterization of the promoter region.";
+RL   Genomics 19:68-74(1994).
+RN   [17]
+RP   PROTEIN SEQUENCE OF 2-33.
+RX   PubMed=3146980; DOI=10.1042/bj2561043;
+RA   Avent N.D., Ridgwell K., Mawby W.J., Tanner M.J.A., Anstee D.J., Kumpel B.;
+RT   "Protein-sequence studies on Rh-related polypeptides suggest the presence
+RT   of at least two groups of proteins which associate in the human red-cell
+RT   membrane.";
+RL   Biochem. J. 256:1043-1046(1988).
+RN   [18]
+RP   PROTEIN SEQUENCE OF 2-17.
+RX   PubMed=3135863;
+RA   Bloy C., Blanchard D., Dahr W., Beyreuther K., Salmon C., Cartron J.-P.;
+RT   "Determination of the N-terminal sequence of human red cell Rh(D)
+RT   polypeptide and demonstration that the Rh(D), (c), and (E) antigens are
+RT   carried by distinct polypeptide chains.";
+RL   Blood 72:661-666(1988).
+RN   [19]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 141-417 (ISOFORMS 1C; 1D; 1H; 2E; 4G; 7A; 8A;
+RP   8E; 8H; RHIV AND RHVI), AND ALTERNATIVE SPLICING.
+RC   TISSUE=Blood;
+RX   PubMed=7789951; DOI=10.1007/bf00209483;
+RA   Kajii E., Umenishi F., Omi T., Ikemoto S.;
+RT   "Intricate combinatorial patterns of exon splicing generate multiple Rh-
+RT   related isoforms in human erythroid cells.";
+RL   Hum. Genet. 95:657-665(1995).
+RN   [20]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 201-417 (ISOFORMS 4G AND RHPI-ALPHA), AND
+RP   TISSUE SPECIFICITY.
+RC   TISSUE=Erythroblast;
+RX   PubMed=8117271; DOI=10.1006/bbrc.1994.1161;
+RA   Umenishi F., Kajii E., Ikemoto S.;
+RT   "Identification of two Rh mRNA isoforms expressed in immature
+RT   erythroblasts.";
+RL   Biochem. Biophys. Res. Commun. 198:1135-1142(1994).
+RN   [21]
+RP   PROTEIN SEQUENCE OF 402-409.
+RX   PubMed=1898705;
+RA   Suyama K., Goldstein J., Aebersold R., Kent S.;
+RT   "Regarding the size of Rh proteins.";
+RL   Blood 77:411-411(1991).
+RN   [22]
+RP   INVOLVEMENT IN RHNA.
+RX   PubMed=9657769;
+RA   Huang C.H., Chen Y., Reid M.E., Seidl C.;
+RT   "Rhnull disease: the amorph type results from a novel double mutation in
+RT   RhCe gene on D-negative background.";
+RL   Blood 92:664-671(1998).
+RN   [23]
+RP   IDENTIFICATION.
+RX   PubMed=11902138; DOI=10.1182/blood-2001-12-0153;
+RA   Wagner F.F., Flegel W.A.;
+RT   "RHCE represents the ancestral RH position, while RHD is the duplicated
+RT   gene.";
+RL   Blood 99:2272-2273(2002).
+RN   [24]
+RP   INVOLVEMENT IN RHNA.
+RX   PubMed=25413218; DOI=10.1111/trf.12937;
+RA   Silvy M., Beley S., Peyrard T., Ouchari M., Abdelkefi S., Jemni Yacoub S.,
+RA   Chiaroni J., Bailly P.;
+RT   "Short duplication within the RHCE gene associated with an in cis deleted
+RT   RHD causing a Rhnull amorph phenotype in an immunized pregnant woman with
+RT   anti-Rh29.";
+RL   Transfusion 55:1407-1410(2015).
+RN   [25] {ECO:0007744|PDB:7UZQ, ECO:0007744|PDB:7V0K, ECO:0007744|PDB:7V0S, ECO:0007744|PDB:8CRT, ECO:0007744|PDB:8CS9, ECO:0007744|PDB:8CSL, ECO:0007744|PDB:8CSX, ECO:0007744|PDB:8CTE}
+RP   STRUCTURE BY ELECTRON MICROSCOPY (2.17 ANGSTROMS), FUNCTION, SUBUNIT,
+RP   ANKYRIN-1 COMPLEX IDENTIFICATION, AND INTERACTION WITH RHAG AND ANK1.
+RX   PubMed=35835865; DOI=10.1038/s41594-022-00792-w;
+RA   Vallese F., Kim K., Yen L.Y., Johnston J.D., Noble A.J., Cali T.,
+RA   Clarke O.B.;
+RT   "Architecture of the human erythrocyte ankyrin-1 complex.";
+RL   Nat. Struct. Mol. Biol. 29:706-718(2022).
+RN   [26]
+RP   VARIANTS TRP-16; ILE-60; SER-68 AND SER-103, AND POLYMORPHISM.
+RX   PubMed=8220426; DOI=10.1038/ng0993-62;
+RA   Mouro I., Colin Y., Cherif-Zahar B., Cartron J.-P., le van Kim C.;
+RT   "Molecular genetic basis of the human Rhesus blood group system.";
+RL   Nat. Genet. 5:62-65(1993).
+CC   -!- FUNCTION: Component of the ankyrin-1 complex, a multiprotein complex
+CC       involved in the stability and shape of the erythrocyte membrane
+CC       (PubMed:35835865). Mediates the primary membrane attachment site for
+CC       ANK1 when associated with RHAG (PubMed:35835865). May participate in
+CC       the ammonium and carbon dioxide transport through the heterotrimer form
+CC       (Probable). {ECO:0000269|PubMed:35835865, ECO:0000305}.
+CC   -!- SUBUNIT: Heterotrimer; a RHCE monomer interacts with a RHAG homodimer
+CC       (PubMed:35835865). Component of the ankyrin-1 complex in the
+CC       erythrocyte, composed of ANK1, RHCE, RHAG, SLC4A1, EPB42, GYPA, GYPB
+CC       and AQP1 (PubMed:35835865). Interacts (via the N- and C-terminal) with
+CC       ANK1 (via ANk 1-5 repeats); mediates the primary membrane attachment
+CC       site for ANK1 (PubMed:35835865). {ECO:0000269|PubMed:35835865}.
+CC   -!- SUBCELLULAR LOCATION: Membrane; Multi-pass membrane protein.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=14;
+CC       Name=RHI;
+CC         IsoId=P18577-1; Sequence=Displayed;
+CC       Name=RHIV; Synonyms=1e;
+CC         IsoId=P18577-2; Sequence=VSP_005703, VSP_005704;
+CC       Name=RHVI; Synonyms=7c;
+CC         IsoId=P18577-3; Sequence=VSP_005702, VSP_005705;
+CC       Name=RHVIII;
+CC         IsoId=P18577-4; Sequence=VSP_005701;
+CC       Name=1c;
+CC         IsoId=P18577-5; Sequence=VSP_005705;
+CC       Name=1d;
+CC         IsoId=P18577-6; Sequence=VSP_037514;
+CC       Name=1h;
+CC         IsoId=P18577-7; Sequence=VSP_037513;
+CC       Name=2e;
+CC         IsoId=P18577-8; Sequence=VSP_037510, VSP_037512;
+CC       Name=4g; Synonyms=RhPI-Beta;
+CC         IsoId=P18577-9; Sequence=VSP_037509;
+CC       Name=7a;
+CC         IsoId=P18577-10; Sequence=VSP_005702;
+CC       Name=8a;
+CC         IsoId=P18577-11; Sequence=VSP_037506, VSP_037511;
+CC       Name=8e;
+CC         IsoId=P18577-12; Sequence=VSP_037507, VSP_037508;
+CC       Name=8h;
+CC         IsoId=P18577-13; Sequence=VSP_037505;
+CC       Name=RhPI-Alpha;
+CC         IsoId=P18577-14; Sequence=VSP_038405, VSP_038406;
+CC   -!- TISSUE SPECIFICITY: Restricted to tissues or cell lines expressing
+CC       erythroid characters. Isoform 4g and isoform RhPI-Alpha are expressed
+CC       in immature erythroblasts but not in mature erythroblasts.
+CC       {ECO:0000269|PubMed:8117271}.
+CC   -!- POLYMORPHISM: RhCE and RhD are responsible for the RH blood group
+CC       system. The molecular basis of the E=Rh3/e=Rh5 blood group antigens is
+CC       a single variation in position 226; Pro-226 corresponds to Rh3 and Ala-
+CC       226 to Rh5. Variant p.Trp16Cys is associated with altered expression of
+CC       E antigen. The molecular basis of the C=Rh2/c=Rh4 blood group antigens
+CC       are variations in position 16, 60, 68 and 103; p.Cys16Trp, p.Ile60Leu,
+CC       p.Ser68Asn and p.Ser103Pro are found in antigen Rh4.
+CC       {ECO:0000269|PubMed:11380456, ECO:0000269|PubMed:8220426}.
+CC   -!- DISEASE: Rh-null, amorph type (RHNA) [MIM:617970]: An autosomal
+CC       recessive condition characterized by red blood cells that lack all Rh
+CC       antigens, have increased osmotic fragility, diminished lifespan, and
+CC       show changes in morphology resulting in stomatocytosis. Rh-null
+CC       individuals have mild to moderate hemolytic anemia. They are at risk of
+CC       having adverse reactions in response to transfusion or pregnancy,
+CC       because they may produce antibodies against several of the Rh antigens.
+CC       {ECO:0000269|PubMed:25413218, ECO:0000269|PubMed:9657769}. Note=The
+CC       disease is caused by variants affecting the gene represented in this
+CC       entry.
+CC   -!- SIMILARITY: Belongs to the ammonium transporter (TC 2.A.49) family. Rh
+CC       subfamily. {ECO:0000305}.
+CC   -!- WEB RESOURCE: Name=dbRBC/BGMUT; Note=Blood group antigen gene mutation
+CC       database;
+CC       URL="https://www.ncbi.nlm.nih.gov/gv/mhc/xslcgi.cgi?cmd=bgmut/systems_info&system=rh";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; X54534; CAA38401.1; -; mRNA.
+DR   EMBL; M34015; AAA36567.1; -; mRNA.
+DR   EMBL; X63095; CAA44809.1; -; mRNA.
+DR   EMBL; X63096; CAA44810.1; -; mRNA.
+DR   EMBL; X63098; CAA44812.1; -; mRNA.
+DR   EMBL; S57967; AAB26080.1; -; mRNA.
+DR   EMBL; DQ266400; ABB69097.1; -; mRNA.
+DR   EMBL; AB018644; BAA33927.1; -; mRNA.
+DR   EMBL; AB018645; BAA33928.1; -; mRNA.
+DR   EMBL; AB030388; BAA82627.1; -; mRNA.
+DR   EMBL; AB049753; BAB16597.1; -; mRNA.
+DR   EMBL; AF510065; AAN75121.1; -; mRNA.
+DR   EMBL; AF510066; AAN75122.1; -; mRNA.
+DR   EMBL; AF510067; AAN75123.1; -; mRNA.
+DR   EMBL; AF510068; AAN75124.1; -; mRNA.
+DR   EMBL; AY603478; AAT35811.1; -; mRNA.
+DR   EMBL; DQ178642; ABA25912.1; -; mRNA.
+DR   EMBL; DQ266353; ABB97471.1; -; mRNA.
+DR   EMBL; DQ322275; ABC55358.1; -; mRNA.
+DR   EMBL; AM398146; CAL44958.1; -; Genomic_DNA.
+DR   EMBL; FJ486155; ACK75562.1; -; Genomic_DNA.
+DR   EMBL; FJ486156; ACK75563.1; -; Genomic_DNA.
+DR   EMBL; FJ486157; ACK75564.1; -; Genomic_DNA.
+DR   EMBL; FJ486158; ACK75565.1; -; Genomic_DNA.
+DR   EMBL; FJ486159; ACK75566.1; -; Genomic_DNA.
+DR   EMBL; FJ486160; ACK75567.1; -; Genomic_DNA.
+DR   EMBL; FJ486161; ACK75568.1; -; Genomic_DNA.
+DR   EMBL; FJ486162; ACK75569.1; -; Genomic_DNA.
+DR   EMBL; FJ486163; ACK75570.1; -; Genomic_DNA.
+DR   EMBL; FJ486164; ACK75571.1; -; Genomic_DNA.
+DR   EMBL; FJ486165; ACK75572.1; -; Genomic_DNA.
+DR   EMBL; AL031284; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL928711; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC075081; AAH75081.1; -; mRNA.
+DR   EMBL; BC139905; AAI39906.1; -; mRNA.
+DR   EMBL; S70456; AAD14061.1; -; Genomic_DNA.
+DR   EMBL; BN000065; CAD29850.1; -; Genomic_DNA.
+DR   CCDS; CCDS30634.1; -. [P18577-4]
+DR   CCDS; CCDS30635.1; -. [P18577-1]
+DR   CCDS; CCDS30636.1; -. [P18577-3]
+DR   CCDS; CCDS30637.1; -. [P18577-2]
+DR   CCDS; CCDS81283.1; -. [P18577-5]
+DR   PIR; A30405; A30405.
+DR   PIR; I54193; I54193.
+DR   PIR; PC2032; PC2032.
+DR   PIR; PC2033; PC2033.
+DR   PIR; S78478; S78478.
+DR   PIR; S78479; S78479.
+DR   PIR; S78480; S78480.
+DR   RefSeq; NP_065231.3; NM_020485.4. [P18577-1]
+DR   RefSeq; NP_619523.3; NM_138617.3.
+DR   PDB; 7UZQ; EM; 2.17 A; K=1-417.
+DR   PDB; 7V0K; EM; 2.40 A; K=1-417.
+DR   PDB; 7V0S; EM; 2.50 A; K=1-417.
+DR   PDB; 8CRT; EM; 3.00 A; K=1-417.
+DR   PDB; 8CS9; EM; 2.74 A; K=1-417.
+DR   PDB; 8CSL; EM; 25.00 A; K=1-417.
+DR   PDB; 8CSX; EM; 2.40 A; K=1-417.
+DR   PDB; 8CTE; EM; 2.90 A; K=1-417.
+DR   PDBsum; 7UZQ; -.
+DR   PDBsum; 7V0K; -.
+DR   PDBsum; 7V0S; -.
+DR   PDBsum; 8CRT; -.
+DR   PDBsum; 8CS9; -.
+DR   PDBsum; 8CSL; -.
+DR   PDBsum; 8CSX; -.
+DR   PDBsum; 8CTE; -.
+DR   AlphaFoldDB; P18577; -.
+DR   EMDB; EMD-26916; -.
+DR   EMDB; EMD-26943; -.
+DR   EMDB; EMD-26949; -.
+DR   EMDB; EMD-26958; -.
+DR   EMDB; EMD-26960; -.
+DR   EMDB; EMD-26965; -.
+DR   EMDB; EMD-26974; -.
+DR   EMDB; EMD-26988; -.
+DR   SMR; P18577; -.
+DR   STRING; 9606.ENSP00000294413; -.
+DR   TCDB; 1.A.11.4.3; the ammonium transporter channel (amt) family.
+DR   iPTMnet; P18577; -.
+DR   PhosphoSitePlus; P18577; -.
+DR   BioMuta; RHCE; -.
+DR   DMDM; 132558; -.
+DR   jPOST; P18577; -.
+DR   MassIVE; P18577; -.
+DR   PaxDb; 9606-ENSP00000294413; -.
+DR   PeptideAtlas; P18577; -.
+DR   ProteomicsDB; 53578; -. [P18577-1]
+DR   ProteomicsDB; 53579; -. [P18577-10]
+DR   ProteomicsDB; 53580; -. [P18577-11]
+DR   ProteomicsDB; 53583; -. [P18577-14]
+DR   ProteomicsDB; 53584; -. [P18577-2]
+DR   ProteomicsDB; 53586; -. [P18577-4]
+DR   ProteomicsDB; 53587; -. [P18577-5]
+DR   ProteomicsDB; 53588; -. [P18577-6]
+DR   ProteomicsDB; 53589; -. [P18577-7]
+DR   ProteomicsDB; 53590; -. [P18577-8]
+DR   ProteomicsDB; 53591; -. [P18577-9]
+DR   ABCD; P18577; 5 sequenced antibodies.
+DR   Antibodypedia; 15860; 179 antibodies from 25 providers.
+DR   DNASU; 6006; -.
+DR   Ensembl; ENST00000294413.13; ENSP00000294413.6; ENSG00000188672.19. [P18577-1]
+DR   Ensembl; ENST00000340849.8; ENSP00000345084.4; ENSG00000188672.19. [P18577-3]
+DR   Ensembl; ENST00000346452.8; ENSP00000344485.4; ENSG00000188672.19. [P18577-4]
+DR   Ensembl; ENST00000349438.8; ENSP00000334570.5; ENSG00000188672.19. [P18577-2]
+DR   Ensembl; ENST00000413854.5; ENSP00000415417.2; ENSG00000188672.19. [P18577-5]
+DR   GeneID; 6006; -.
+DR   KEGG; hsa:6006; -.
+DR   MANE-Select; ENST00000294413.13; ENSP00000294413.6; NM_020485.8; NP_065231.4.
+DR   UCSC; uc001bkf.4; human. [P18577-1]
+DR   AGR; HGNC:10008; -.
+DR   CTD; 6006; -.
+DR   DisGeNET; 6006; -.
+DR   GeneCards; RHCE; -.
+DR   HGNC; HGNC:10008; RHCE.
+DR   HPA; ENSG00000188672; Tissue enriched (bone).
+DR   MalaCards; RHCE; -.
+DR   MIM; 111700; gene.
+DR   MIM; 617970; phenotype.
+DR   neXtProt; NX_P18577; -.
+DR   OpenTargets; ENSG00000188672; -.
+DR   Orphanet; 71275; Rh deficiency syndrome.
+DR   PharmGKB; PA34386; -.
+DR   VEuPathDB; HostDB:ENSG00000188672; -.
+DR   eggNOG; KOG3796; Eukaryota.
+DR   GeneTree; ENSGT00950000182844; -.
+DR   HOGENOM; CLU_021386_1_0_1; -.
+DR   InParanoid; P18577; -.
+DR   OrthoDB; 5483564at2759; -.
+DR   PhylomeDB; P18577; -.
+DR   TreeFam; TF314450; -.
+DR   PathwayCommons; P18577; -.
+DR   Reactome; R-HSA-9037628; Rhesus blood group biosynthesis.
+DR   SIGNOR; P18577; -.
+DR   BioGRID-ORCS; 6006; 19 hits in 1148 CRISPR screens.
+DR   ChiTaRS; RHCE; human.
+DR   GeneWiki; RHCE_(gene); -.
+DR   GenomeRNAi; 6006; -.
+DR   Pharos; P18577; Tbio.
+DR   PRO; PR:P18577; -.
+DR   Proteomes; UP000005640; Chromosome 1.
+DR   RNAct; P18577; Protein.
+DR   Bgee; ENSG00000188672; Expressed in trabecular bone tissue and 107 other cell types or tissues.
+DR   ExpressionAtlas; P18577; baseline and differential.
+DR   GO; GO:0170014; C:ankyrin-1 complex; IDA:UniProtKB.
+DR   GO; GO:0005886; C:plasma membrane; TAS:Reactome.
+DR   GO; GO:0008519; F:ammonium transmembrane transporter activity; IBA:GO_Central.
+DR   GO; GO:0097272; P:ammonium homeostasis; IBA:GO_Central.
+DR   GO; GO:0072488; P:ammonium transmembrane transport; IBA:GO_Central.
+DR   Gene3D; 1.10.3430.10; Ammonium transporter AmtB like domains; 1.
+DR   InterPro; IPR029020; Ammonium/urea_transptr.
+DR   InterPro; IPR024041; NH4_transpt_AmtB-like_dom.
+DR   InterPro; IPR002229; RhesusRHD.
+DR   PANTHER; PTHR11730; AMMONIUM TRANSPORTER; 1.
+DR   PANTHER; PTHR11730:SF43; BLOOD GROUP RH(CE) POLYPEPTIDE-RELATED; 1.
+DR   Pfam; PF00909; Ammonium_transp; 1.
+DR   PRINTS; PR00342; RHESUSRHD.
+DR   SUPFAM; SSF111352; Ammonium transporter; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Blood group antigen;
+KW   Direct protein sequencing; Membrane; Reference proteome; Transmembrane;
+KW   Transmembrane helix.
+FT   INIT_MET        1
+FT                   /note="Removed"
+FT                   /evidence="ECO:0000269|PubMed:3135863,
+FT                   ECO:0000269|PubMed:3146980"
+FT   CHAIN           2..417
+FT                   /note="Blood group Rh(CE) polypeptide"
+FT                   /id="PRO_0000168189"
+FT   TRANSMEM        12..32
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        44..64
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        77..97
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        125..145
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        172..192
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        203..223
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        238..258
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        265..285
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        287..307
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        331..351
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        358..378
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   VAR_SEQ         163..409
+FT                   /note="Missing (in isoform 8h)"
+FT                   /evidence="ECO:0000303|PubMed:7789951"
+FT                   /id="VSP_037505"
+FT   VAR_SEQ         163..313
+FT                   /note="Missing (in isoform RHVIII)"
+FT                   /evidence="ECO:0000303|PubMed:1379850"
+FT                   /id="VSP_005701"
+FT   VAR_SEQ         163..220
+FT                   /note="Missing (in isoform 8a)"
+FT                   /evidence="ECO:0000303|PubMed:7789951"
+FT                   /id="VSP_037506"
+FT   VAR_SEQ         163..203
+FT                   /note="TDYHMNLRHFYVFAAYFGLTVAWCLPKPLPKGTEDNDQRAT -> DWLPGPP
+FT                   QHWGTQLGHRDSSHVWSPDRFAPKSQNMESTSCG (in isoform 8e)"
+FT                   /evidence="ECO:0000303|PubMed:7789951"
+FT                   /id="VSP_037507"
+FT   VAR_SEQ         164..268
+FT                   /note="Missing (in isoform RHVI and isoform 7a)"
+FT                   /evidence="ECO:0000303|PubMed:1379850,
+FT                   ECO:0000303|PubMed:7789951"
+FT                   /id="VSP_005702"
+FT   VAR_SEQ         204..417
+FT                   /note="Missing (in isoform 8e)"
+FT                   /evidence="ECO:0000303|PubMed:7789951"
+FT                   /id="VSP_037508"
+FT   VAR_SEQ         212..384
+FT                   /note="Missing (in isoform 4g)"
+FT                   /evidence="ECO:0000303|PubMed:7789951,
+FT                   ECO:0000303|PubMed:8117271"
+FT                   /id="VSP_037509"
+FT   VAR_SEQ         227..242
+FT                   /note="LLRSPIQRKNAMFNTY -> DRFAPKSQNMESTSCG (in isoform
+FT                   RhPI-Alpha)"
+FT                   /evidence="ECO:0000303|PubMed:8117271"
+FT                   /id="VSP_038405"
+FT   VAR_SEQ         243..417
+FT                   /note="Missing (in isoform RhPI-Alpha)"
+FT                   /evidence="ECO:0000303|PubMed:8117271"
+FT                   /id="VSP_038406"
+FT   VAR_SEQ         268..308
+FT                   /note="TYVHSAVLAGGVAVGTSCHLIPSPWLAMVLGLVAGLISIGG -> DWLPGPP
+FT                   QHWGTQLGHRDSSHVWSPDRFAPKSQNMESTSCG (in isoform 2e)"
+FT                   /evidence="ECO:0000303|PubMed:7789951"
+FT                   /id="VSP_037510"
+FT   VAR_SEQ         301..313
+FT                   /note="Missing (in isoform 8a)"
+FT                   /evidence="ECO:0000303|PubMed:7789951"
+FT                   /id="VSP_037511"
+FT   VAR_SEQ         309..417
+FT                   /note="Missing (in isoform 2e)"
+FT                   /evidence="ECO:0000303|PubMed:7789951"
+FT                   /id="VSP_037512"
+FT   VAR_SEQ         314..409
+FT                   /note="Missing (in isoform 1h)"
+FT                   /evidence="ECO:0000303|PubMed:7789951"
+FT                   /id="VSP_037513"
+FT   VAR_SEQ         314..354
+FT                   /note="VCCNRVLGIHHISVMHSIFSLLGLLGEITYIVLLVLHTVWN -> DWLPGPP
+FT                   QHWGTQLGHRDSSHVWSPDRFAPKSQNMESTSCG (in isoform RHIV)"
+FT                   /evidence="ECO:0000303|PubMed:1379850,
+FT                   ECO:0000303|PubMed:7789951"
+FT                   /id="VSP_005703"
+FT   VAR_SEQ         355..417
+FT                   /note="Missing (in isoform RHIV)"
+FT                   /evidence="ECO:0000303|PubMed:1379850,
+FT                   ECO:0000303|PubMed:7789951"
+FT                   /id="VSP_005704"
+FT   VAR_SEQ         358..417
+FT                   /note="MIGFQVLLSIGELSLAIVIALTSGLLTGLLLNLKIWKAPHVAKYFDDQVFWK
+FT                   FPHLAVGF -> IFLIWLLDFKQKHPRKTRPVQKQDNFLSLLPAVREKRS (in
+FT                   isoform 1d)"
+FT                   /evidence="ECO:0000303|PubMed:7789951"
+FT                   /id="VSP_037514"
+FT   VAR_SEQ         359..417
+FT                   /note="IGFQVLLSIGELSLAIVIALTSGLLTGLLLNLKIWKAPHVAKYFDDQVFWKF
+FT                   PHLAVGF -> FAPKSQNMESTSCG (in isoform RHVI and isoform 1c)"
+FT                   /evidence="ECO:0000303|PubMed:1379850,
+FT                   ECO:0000303|PubMed:7789951"
+FT                   /id="VSP_005705"
+FT   VARIANT         16
+FT                   /note="C -> W (found in antigen c/Rh4)"
+FT                   /evidence="ECO:0000269|PubMed:11380456,
+FT                   ECO:0000269|PubMed:11724987, ECO:0000269|PubMed:12393640,
+FT                   ECO:0000269|PubMed:1379850, ECO:0000269|PubMed:1696722,
+FT                   ECO:0000269|PubMed:2123099, ECO:0000269|PubMed:7916743,
+FT                   ECO:0000269|PubMed:8220426, ECO:0000269|Ref.10,
+FT                   ECO:0000269|Ref.12, ECO:0000269|Ref.13, ECO:0000269|Ref.9"
+FT                   /id="VAR_006911"
+FT   VARIANT         36
+FT                   /note="A -> T (in C(X)/Rh9 antigen; dbSNP:rs145034271)"
+FT                   /id="VAR_006912"
+FT   VARIANT         41
+FT                   /note="Q -> R (found in antigen C(W)/Rh8;
+FT                   dbSNP:rs138268848)"
+FT                   /id="VAR_006913"
+FT   VARIANT         60
+FT                   /note="L -> I (found in antigen C/Rh2; dbSNP:rs181860403)"
+FT                   /evidence="ECO:0000269|PubMed:11724987,
+FT                   ECO:0000269|PubMed:15489334, ECO:0000269|PubMed:8220426,
+FT                   ECO:0000269|Ref.10, ECO:0000269|Ref.12, ECO:0000269|Ref.13,
+FT                   ECO:0000269|Ref.8"
+FT                   /id="VAR_006914"
+FT   VARIANT         68
+FT                   /note="N -> S (found in antigen C/Rh2; dbSNP:rs1053344)"
+FT                   /evidence="ECO:0000269|PubMed:11724987,
+FT                   ECO:0000269|PubMed:15489334, ECO:0000269|PubMed:8220426,
+FT                   ECO:0000269|Ref.10, ECO:0000269|Ref.12, ECO:0000269|Ref.13,
+FT                   ECO:0000269|Ref.8"
+FT                   /id="VAR_006915"
+FT   VARIANT         103
+FT                   /note="P -> S (found in antigen C/Rh2; dbSNP:rs676785)"
+FT                   /evidence="ECO:0000269|PubMed:11724987,
+FT                   ECO:0000269|PubMed:15489334, ECO:0000269|PubMed:8220426,
+FT                   ECO:0000269|Ref.10, ECO:0000269|Ref.12, ECO:0000269|Ref.13,
+FT                   ECO:0000269|Ref.8"
+FT                   /id="VAR_006916"
+FT   VARIANT         127
+FT                   /note="A -> V (in dbSNP:rs1053346)"
+FT                   /evidence="ECO:0000269|PubMed:11724987"
+FT                   /id="VAR_055260"
+FT   VARIANT         128
+FT                   /note="G -> D (in dbSNP:rs1053347)"
+FT                   /evidence="ECO:0000269|PubMed:11724987"
+FT                   /id="VAR_055261"
+FT   VARIANT         154
+FT                   /note="R -> T (found in antigen RhEKH)"
+FT                   /evidence="ECO:0000269|PubMed:11724987"
+FT                   /id="VAR_013301"
+FT   VARIANT         182
+FT                   /note="T -> S (in dbSNP:rs1053350)"
+FT                   /id="VAR_055262"
+FT   VARIANT         198
+FT                   /note="N -> K (in dbSNP:rs1053354)"
+FT                   /id="VAR_055263"
+FT   VARIANT         226
+FT                   /note="A -> P (found in antigen E/Rh3; dbSNP:rs609320)"
+FT                   /evidence="ECO:0000269|PubMed:11380456,
+FT                   ECO:0000269|PubMed:11724987, ECO:0000269|PubMed:12393640,
+FT                   ECO:0000269|PubMed:1379850, ECO:0000269|PubMed:1696722,
+FT                   ECO:0000269|PubMed:2123099, ECO:0000269|PubMed:7916743,
+FT                   ECO:0000269|PubMed:8220426, ECO:0000269|Ref.10,
+FT                   ECO:0000269|Ref.12, ECO:0000269|Ref.13, ECO:0000269|Ref.9"
+FT                   /id="VAR_006917"
+FT   VARIANT         233
+FT                   /note="Q -> E (found in antigen RhEFM; dbSNP:rs142246017)"
+FT                   /evidence="ECO:0000269|PubMed:11724987, ECO:0000269|Ref.9"
+FT                   /id="VAR_013302"
+FT   VARIANT         238
+FT                   /note="M -> V (found in antigen RhEFM; dbSNP:rs144163296)"
+FT                   /evidence="ECO:0000269|PubMed:11724987,
+FT                   ECO:0000269|PubMed:12393640"
+FT                   /id="VAR_013303"
+FT   VARIANT         245
+FT                   /note="L -> V (in VS antigen; dbSNP:rs1053361)"
+FT                   /evidence="ECO:0000269|PubMed:12393640, ECO:0000269|Ref.9"
+FT                   /id="VAR_006918"
+FT   VARIANT         263
+FT                   /note="R -> G (in dbSNP:rs1132763)"
+FT                   /evidence="ECO:0000269|PubMed:12393640"
+FT                   /id="VAR_057987"
+FT   VARIANT         267
+FT                   /note="M -> K (in dbSNP:rs1132764)"
+FT                   /evidence="ECO:0000269|PubMed:12393640, ECO:0000269|Ref.13"
+FT                   /id="VAR_057988"
+FT   VARIANT         323
+FT                   /note="H -> P (in dbSNP:rs1053366)"
+FT                   /id="VAR_055264"
+FT   VARIANT         325
+FT                   /note="I -> S (in dbSNP:rs1053367)"
+FT                   /id="VAR_055265"
+FT   VARIANT         329
+FT                   /note="H -> D (in dbSNP:rs1053370)"
+FT                   /id="VAR_055266"
+FT   VARIANT         329
+FT                   /note="H -> R (in dbSNP:rs1053371)"
+FT                   /id="VAR_055267"
+FT   VARIANT         330
+FT                   /note="S -> Y (in dbSNP:rs1053372)"
+FT                   /id="VAR_055268"
+FT   VARIANT         331
+FT                   /note="I -> N (in dbSNP:rs1053373)"
+FT                   /id="VAR_055269"
+FT   VARIANT         398
+FT                   /note="V -> E (in dbSNP:rs630612)"
+FT                   /evidence="ECO:0000269|Ref.12"
+FT                   /id="VAR_057989"
+FT   CONFLICT        10
+FT                   /note="R -> W (in Ref. 13; ACK75562)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        12
+FT                   /note="C -> L (in Ref. 18; AA sequence)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        53
+FT                   /note="D -> G (in Ref. 3; CAA44812)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        61
+FT                   /note="G -> C (in Ref. 3; CAA44812)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        114
+FT                   /note="R -> W (in Ref. 7; AAN75123)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        115
+FT                   /note="L -> P (in Ref. 13; ACK75563/ACK75565)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        121
+FT                   /note="M -> L (in Ref. 6; BAB16597/BAA82627)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        122
+FT                   /note="S -> P (in Ref. 13; ACK75564)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        125
+FT                   /note="I -> N (in Ref. 13; ACK75565)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        152
+FT                   /note="T -> N (in Ref. 6; BAB16597/BAA82627)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        155
+FT                   /note="M -> V (in Ref. 8; AAT35811)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        166
+FT                   /note="H -> L (in Ref. 13; ACK75566)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        169
+FT                   /note="L -> Q (in Ref. 13; ACK75567)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        201
+FT                   /note="R -> T (in Ref. 13; ACK75568)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        217
+FT                   /note="W -> R (in Ref. 13; ACK75569)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        241
+FT                   /note="T -> I (in Ref. 13; ACK75570)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        250
+FT                   /note="V -> M (in Ref. 7; AAN75124)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        273
+FT                   /note="A -> V (in Ref. 7; AAN75122)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        303
+FT                   /note="L -> Q (in Ref. 13; ACK75572)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        378
+FT                   /note="L -> V (in Ref. 7; AAN75122)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        408..409
+FT                   /note="WK -> DI (in Ref. 21; AA sequence)"
+FT                   /evidence="ECO:0000305"
+FT   HELIX           12..31
+FT                   /evidence="ECO:0007829|PDB:7UZQ"
+FT   STRAND          32..34
+FT                   /evidence="ECO:0007829|PDB:8CSX"
+FT   HELIX           44..59
+FT                   /evidence="ECO:0007829|PDB:7UZQ"
+FT   HELIX           61..65
+FT                   /evidence="ECO:0007829|PDB:7UZQ"
+FT   TURN            66..68
+FT                   /evidence="ECO:0007829|PDB:7UZQ"
+FT   STRAND          69..71
+FT                   /evidence="ECO:0007829|PDB:7UZQ"
+FT   HELIX           73..98
+FT                   /evidence="ECO:0007829|PDB:7UZQ"
+FT   STRAND          106..108
+FT                   /evidence="ECO:0007829|PDB:8CSX"
+FT   HELIX           110..127
+FT                   /evidence="ECO:0007829|PDB:7UZQ"
+FT   TURN            128..132
+FT                   /evidence="ECO:0007829|PDB:7UZQ"
+FT   HELIX           136..161
+FT                   /evidence="ECO:0007829|PDB:7UZQ"
+FT   HELIX           167..171
+FT                   /evidence="ECO:0007829|PDB:7UZQ"
+FT   HELIX           172..186
+FT                   /evidence="ECO:0007829|PDB:7UZQ"
+FT   HELIX           203..219
+FT                   /evidence="ECO:0007829|PDB:7UZQ"
+FT   HELIX           220..222
+FT                   /evidence="ECO:0007829|PDB:7UZQ"
+FT   STRAND          224..227
+FT                   /evidence="ECO:0007829|PDB:7UZQ"
+FT   HELIX           231..256
+FT                   /evidence="ECO:0007829|PDB:7UZQ"
+FT   TURN            257..259
+FT                   /evidence="ECO:0007829|PDB:7UZQ"
+FT   STRAND          263..265
+FT                   /evidence="ECO:0007829|PDB:7UZQ"
+FT   HELIX           267..273
+FT                   /evidence="ECO:0007829|PDB:7UZQ"
+FT   HELIX           276..280
+FT                   /evidence="ECO:0007829|PDB:7UZQ"
+FT   TURN            281..287
+FT                   /evidence="ECO:0007829|PDB:7UZQ"
+FT   HELIX           291..311
+FT                   /evidence="ECO:0007829|PDB:7UZQ"
+FT   TURN            312..314
+FT                   /evidence="ECO:0007829|PDB:7UZQ"
+FT   HELIX           327..347
+FT                   /evidence="ECO:0007829|PDB:7UZQ"
+FT   HELIX           361..388
+FT                   /evidence="ECO:0007829|PDB:7UZQ"
+FT   HELIX           391..393
+FT                   /evidence="ECO:0007829|PDB:7UZQ"
+FT   HELIX           398..400
+FT                   /evidence="ECO:0007829|PDB:7UZQ"
+FT   HELIX           404..406
+FT                   /evidence="ECO:0007829|PDB:7UZQ"
+SQ   SEQUENCE   417 AA;  45451 MW;  0EEB9D726DB28E6C CRC64;
+     MSSKYPRSVR RCLPLCALTL EAALILLFYF FTHYDASLED QKGLVASYQV GQDLTVMAAL
+     GLGFLTSNFR RHSWSSVAFN LFMLALGVQW AILLDGFLSQ FPPGKVVITL FSIRLATMSA
+     MSVLISAGAV LGKVNLAQLV VMVLVEVTAL GTLRMVISNI FNTDYHMNLR HFYVFAAYFG
+     LTVAWCLPKP LPKGTEDNDQ RATIPSLSAM LGALFLWMFW PSVNSALLRS PIQRKNAMFN
+     TYYALAVSVV TAISGSSLAH PQRKISMTYV HSAVLAGGVA VGTSCHLIPS PWLAMVLGLV
+     AGLISIGGAK CLPVCCNRVL GIHHISVMHS IFSLLGLLGE ITYIVLLVLH TVWNGNGMIG
+     FQVLLSIGEL SLAIVIALTS GLLTGLLLNL KIWKAPHVAK YFDDQVFWKF PHLAVGF
+//:0000255"

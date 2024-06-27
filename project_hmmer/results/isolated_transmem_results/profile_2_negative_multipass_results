@@ -1,0 +1,75 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.4 (Aug 2023); http://hmmer.org/
+# Copyright (C) 2023 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  profile_isolated_transmem.hmm
+# target sequence database:        negative_multipass_set.fasta
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       out  [M=77]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence             Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------             -----------
+  ------ inclusion threshold ------
+         10  -14.9  32.0       0.54    1.2   0.1    4.9  5  sp|P18577|RHCE_HUMAN  Blood group Rh(CE) polypeptide OS=Homo 
+
+
+Domain annotation for each sequence (and alignments):
+>> sp|P18577|RHCE_HUMAN  Blood group Rh(CE) polypeptide OS=Homo sapiens OX=9606 GN=RHCE PE=1 SV=3
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    1.2   0.1     0.054      0.54      57      68 ..      15      34 ..       3      34 .. 0.67
+   2 ?   -2.8   3.5      0.92       9.2      36      37 ..      94      96 ..      63     179 .. 0.63
+   3 ?   -2.3   0.0      0.66       6.6      59      66 ..     210     221 ..     198     230 .. 0.55
+   4 ?    0.7   5.9     0.076      0.76      20      63 ..     290     335 ..     279     354 .. 0.59
+   5 ?   -0.6   1.1      0.19       1.9      28      48 ..     371     395 ..     349     413 .. 0.50
+
+  Alignments for each domain:
+  == domain 1  score: 1.2 bits;  conditional E-value: 0.054
+                   out 57 i.......lllslL.ffksy 68
+                          +       +l++l+ ff++y
+  sp|P18577|RHCE_HUMAN 15 LcaltleaALILLFyFFTHY 34
+                          34555566788888999998 PP
+
+  == domain 2  score: -2.8 bits;  conditional E-value: 0.92
+                   out 36 l.g 37
+                          l g
+  sp|P18577|RHCE_HUMAN 94 LdG 96
+                          232 PP
+
+  == domain 3  score: -2.3 bits;  conditional E-value: 0.66
+                   out  59 llslL....ffk 66 
+                           +l+ L    f++
+  sp|P18577|RHCE_HUMAN 210 MLGALflwmFWP 221
+                           333332233444 PP
+
+  == domain 4  score: 0.7 bits;  conditional E-value: 0.076
+                   out  20 siwlvlil.vllglllvlgillivllrrrrkrkvsapsi..lllslL 63 
+                           s+wl+++l +++gl + +g   ++ +++ r  +++++s+   ++slL
+  sp|P18577|RHCE_HUMAN 290 SPWLAMVLgLVAGL-ISIGGAKCLPVCCNRVLGIHHISVmhSIFSLL 335
+                           23554544344443.33432344556666777789999966444444 PP
+
+  == domain 5  score: -0.6 bits;  conditional E-value: 0.19
+                   out  28 vllglllvl..gil..liv.llrrrr 48 
+                           +l++ +++l  g+l  l++ l++++ 
+  sp|P18577|RHCE_HUMAN 371 SLAI-VIALtsGLLtgLLLnLKIWKA 395
+                           2221.122223333333444444444 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (77 nodes)
+Target sequences:                         10  (3829 residues searched)
+Passed MSV filter:                         7  (0.7); expected 0.2 (0.02)
+Passed bias filter:                        4  (0.4); expected 0.2 (0.02)
+Passed Vit filter:                         2  (0.2); expected 0.0 (0.001)
+Passed Fwd filter:                         1  (0.1); expected 0.0 (1e-05)
+Initial search space (Z):                 10  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.00u 0.01s 00:00:00.01 Elapsed: 00:00:00.00
+# Mc/sec: 78.89
+//
+[ok]
