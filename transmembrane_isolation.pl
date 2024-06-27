@@ -12,8 +12,7 @@ my $transmem_end;
 my $transmem_counter = 0;
 my $transmem_flag = 0;
 my $offset = 5;
-#my $output_seq;
-
+my $prot_id;
 
 if($ARGC == 1)                                                                          #Open file from command line, if given
     {
@@ -37,30 +36,29 @@ while($temp = <INPUT>)                                                          
         $transmem_end = $2;
         $transmem_flag = 1;
         }
-        
-    elsif($temp =~ /^\/\//)
+    elsif($temp =~ /AC   (\w*);/)
+        {
+        $prot_id = $1;
+        chomp($prot_id);
+        }
+    elsif($temp =~ /^\/\/*/)
         {
         $prot_seq =~ s/[^\w]//g;
         my @seq_array = split("",$prot_seq);
-
-        print $output_file "> \n";
-        for($i = $transmem_start - $offset-1; $i < $transmem_end + $offset+1; $i++)     #Print sequence to the output file
+        print $output_file "> ", $prot_id, "\n";
+        for($i = $transmem_start - $offset-1; $i < $transmem_end + $offset+1; $i++)
             {
             print $output_file $seq_array[$i];
             }
         print $output_file "\n";
-
-        $prot_seq = '';                                                                 #Empty strings from any sequence they might contain
-        $output_seq = '';
+        $prot_seq = '';
         $seq_flag = 0;
         $transmem_flag = 0;
         }
-
     elsif($seq_flag == 1)
         {
         $prot_seq .= $temp;
         }
-
     elsif($temp =~ /SQ   SEQUENCE*/)
         {
         $seq_flag = 1;
